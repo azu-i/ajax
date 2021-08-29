@@ -1,0 +1,9 @@
+.inputOuter{
+	padding: 0 15px;
+	margin: 10px;
+	border-radius: 5px;
+	background-color: #FFCCCC;
+	display: inline-block;
+	cursor: pointer;
+}
+
